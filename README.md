@@ -1,4 +1,8 @@
-<p align="center">
+
+<div align="center">
+
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
+
 Streamline and optimize your process manufacturing with our comprehensive tool.
 <br />
 <a href="https://empress.eco/"><strong>Explore the Docs »</strong></a>
@@ -10,7 +14,6 @@ Streamline and optimize your process manufacturing with our comprehensive tool.
 </p>
 </div>
 
-![Process Manufacturing Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
 
 ## About The Project
 
